@@ -1,2 +1,3 @@
 # darkforge-cog
-Redbot Cogs by DarkForge
+Red by twentysix Python v3 Cogs 
+by DarkStag
